@@ -150,12 +150,12 @@ Plastic-Classification---Machine-Learning-/
 
 ## 🔍 Key Features
 
--✅ **Dual Model Approach**: Compare SVM vs Random Forest performance
--✅ **High Accuracy**: 93.89% classification accuracy
--✅ **Comprehensive Metrics**: Precision, recall, F1-score for each plastic type
--✅ **Visual Analysis**: Confusion matrices and performance charts
--✅ **Production Ready**: Standardized preprocessing pipeline
--✅ **Reproducible**: Fixed random seeds for consistent results
+- ✅ **Dual Model Approach**: Compare SVM vs Random Forest performance
+- ✅ **High Accuracy**: 93.89% classification accuracy
+- ✅ **Comprehensive Metrics**: Precision, recall, F1-score for each plastic type
+- ✅ **Visual Analysis**: Confusion matrices and performance charts
+- ✅ **Production Ready**: Standardized preprocessing pipeline
+- ✅ **Reproducible**: Fixed random seeds for consistent results
 
 ## 🎓 Applications
 
